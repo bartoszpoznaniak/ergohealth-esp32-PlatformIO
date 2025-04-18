@@ -140,4 +140,35 @@
  C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-spi.h \
  .pio/libdeps/esp32dev/SparkFun\ BMI270\ Arduino\ Library/src/bmi270_api/bmi270.h \
  .pio/libdeps/esp32dev/SparkFun\ BMI270\ Arduino\ Library/src/bmi270_api/bmi2.h \
- .pio/libdeps/esp32dev/SparkFun\ BMI270\ Arduino\ Library/src/bmi270_api/bmi2_defs.h
+ .pio/libdeps/esp32dev/SparkFun\ BMI270\ Arduino\ Library/src/bmi270_api/bmi2_defs.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEDevice.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/bt/host/bluedroid/api/include/api/esp_gap_ble_api.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/bt/host/bluedroid/api/include/api/esp_bt_defs.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/bt/host/bluedroid/api/include/api/esp_gattc_api.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/bt/host/bluedroid/api/include/api/esp_gatt_defs.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/bt/include/esp32/include/esp_bt.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_system/include/esp_task.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos/FreeRTOSConfig.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEServer.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/bt/host/bluedroid/api/include/api/esp_gatts_api.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEUUID.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/bt/host/bluedroid/api/include/api/esp_gatt_defs.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEAdvertising.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/RTOS.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_ringbuf/include/freertos/ringbuf.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLECharacteristic.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEDescriptor.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEValue.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEService.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLESecurity.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEAddress.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEClient.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLERemoteService.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLERemoteCharacteristic.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLERemoteDescriptor.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEAdvertisedDevice.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEScan.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEUtils.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEServer.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEUtils.h \
+ C:/Users/bpozn/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLE2902.h
